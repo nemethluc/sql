@@ -1,0 +1,1 @@
+DELETE FROM todo where done = TRUE;
